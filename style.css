@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .background {
+    border: 1px solid black;
+  }
+  
+  .head-class {
+    text-align: center;
+  }
+  
+  .second-Class {
+    display: flex;
+    border: 1px solid black;
+    width: 80%;
+    height: 65vh;
+    margin: 0 10% 2%;
+  }
+  
+  .image-Class {
+    display: flex;
+    width: 40%;
+    margin: 5px;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  img {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+  }
+  
+  .form-Class {
+    display: flex;
+    width: 60%;
+    margin: 5px;
+    justify-content: flex-start;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+  }
+  
+  button {
+    width: 150px;
+    margin: 10px;
+  }
+  
+  .button {
+    display: flex;
+    justify-content: center;
+  }
